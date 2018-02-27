@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-
         <activity
             android:name="com.bilibili.tonychan.module.SplashActivity"
             android:theme="@style/ColorTranslucentTheme">
